@@ -33,7 +33,7 @@ const configuration = {
     nextRoundStartTime: 7, // seconds
     enableRandomBet: true // true or false
   },
-  port: 8080,
+  port: 3000,
   host: "localhost",
   apiUrl: "http://localhost/live-gaming",
   domainName: "localhost",
